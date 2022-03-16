@@ -48,6 +48,7 @@ function tahnoutJmeno() {
 
     let vyherce = document.querySelector('#vyherka');
     vyherce.textContent = vyherniJmeno;
+
     let seznam = document.querySelector('#seznam');
     seznam.textContent = tazenaJmena;
 }
