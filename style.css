@@ -66,6 +66,10 @@ h2 {
 	outline: 0;
 }
 
+.restart {
+	margin-top: 20px;
+}
+
 .tlacitko:hover {
 	box-shadow: 0 6px 14px rgba(0, 0, 0, 0.18);
 	transform: translateY(-2px);
